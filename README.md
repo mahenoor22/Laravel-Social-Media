@@ -22,5 +22,4 @@ User can :
 <img src="images/posts.JPG">
 
 # Delete Posts
-<img src="images/deletepost.jpg">
-
+<img src="images/deletepost.JPG">
